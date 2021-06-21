@@ -1,6 +1,6 @@
+Puedes acceder a la app de gifs desde el siguiente enlace:
+
 https://egolpe.github.io/React-GifExpert-App/
-
-
 
 
 # Getting Started with Create React App
